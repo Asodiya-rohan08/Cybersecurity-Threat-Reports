@@ -58,6 +58,13 @@ Cybersecurity is continuously evolving with emerging threats such as AI-based at
 Future learning areas include advanced threat intelligence, penetration testing, cloud security, and security automation.
 
 ---
+## 📚 References
+
+- CISA Cybersecurity Advisories  
+- Krebs on Security  
+- IBM Security Blog  
+- OWASP Top 10  
+- ENISA Threat Landscape Report
 
 ## 🧑‍💻 Author Information
 
